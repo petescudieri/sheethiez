@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uwaixiech.dstokes5soccer.com/sitemap.xml
